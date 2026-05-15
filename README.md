@@ -63,3 +63,7 @@ to model deployment readiness, delivering actionable insights for Airbnb hosts.
 
 ## 🎥 Project Walkthrough Video
 [Watch the Project Explanation](https://drive.google.com/file/d/1qaBleDCP1iMjMNbUPTf-wII0f6kw66g1/view)
+
+## Project Deployment (Hugging Face)
+[Watch the Project Live Demo](https://huggingface.co/spaces/VedantJadhav9/Airbnb-Price-Predictor)
+
